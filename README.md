@@ -25,7 +25,7 @@
 
 * 각자 맡은 Parts에 대한 내용을 아래 해당링크에 작성하시면 됩니다.
 
-1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md)  
+1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md)  test
 2.  [L298N Motor driver](Microprocessor-Term-project/docs/L298N Motor driver.md)  test
 3.  [5v DC Motor](Microprocessor-Term-project/docs/5v DC Motor.md)  test
 4.  [5 x 7 Dot Matrix Display](Microprocessor-Term-project/docs/5 x 7 Dot Matrix Display.md)  test
