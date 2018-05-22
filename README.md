@@ -1,5 +1,4 @@
 # Microprocessor Term-project
-# README
 
 ## Purpose & Scope
 마이크로 프로세서 텀프로젝트의 공기청정기 제작을 목적으로 한다.
@@ -27,11 +26,11 @@
 * 각자 맡은 Parts에 대한 내용을 아래 해당링크에 작성하시면 됩니다.
 
 1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md)
-2.  [L298N Motor driver](./docs/L298N Motor driver.md)
-3.  [5v DC Motor](./docs/5v DC Motor.md)
-4.  [5 x 7 Dot Matrix Display](./docs/5 x 7 Dot Matrix Display.md)
-5.  [4 x 4 Switch Keypad](./docs/4 x 4 Switch Keypad.md)
-6.  [Z80 Board](./docs/Z80 Board.md)
+2.  [L298N Motor driver](Microprocessor-Term-project/docs/L298N Motor driver.md)
+3.  [5v DC Motor](Microprocessor-Term-project/docs/5v DC Motor.md)
+4.  [5 x 7 Dot Matrix Display](Microprocessor-Term-project/docs/5 x 7 Dot Matrix Display.md)
+5.  [4 x 4 Switch Keypad](Microprocessor-Term-project/docs/4 x 4 Switch Keypad.md)
+6.  [Z80 Board](Microprocessor-Term-project/docs/Z80 Board.md)
 
 
 
