@@ -25,7 +25,7 @@
 
 * 각자 맡은 Parts에 대한 내용을 아래 해당링크에 작성하시면 됩니다.
 
-1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md)
+1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md) 
 2.  [Z80 processor 보드](./docs/Z80Board.md)
 3.  [L298N Motor driver](./docs/L298NMotordriver.md)
 4.  [5v DC Motor](./docs/5vDCMotor.md)
