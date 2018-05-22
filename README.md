@@ -5,9 +5,9 @@
 
 사용부품 목록
 
-*   GP2Y1010AU0F 미세먼지 센서
-*   Z80 processor 보드
-*   L298N Motor driver
+*  GP2Y1010AU0F 미세먼지 센서
+*  Z80 processor 보드
+*  L298N Motor driver
 *   5v DC Motor
 *   5 x 7 Dot Matrix Display
 *   4 x 4 Switch Keypad
