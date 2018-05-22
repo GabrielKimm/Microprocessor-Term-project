@@ -26,7 +26,7 @@
 * 각자 맡은 Parts에 대한 내용을 아래 해당링크에 작성하시면 됩니다.
 
 1.  [GP2Y1010AU0F 미세먼지 센서](./docs/GP2Y1010AU0F.md)  test
-2.  [Z80 processor 보드](./docs/Z80 Board.md)  eclipse, make, doxygen, graphviz
+2.  [Z80 processor 보드](Microprocessor-Term-project/docs/Z80 Board.md)  eclipse, make, doxygen, graphviz
 3.  [L298N Motor driver](./docs/WhatIsIlld.md) PORT
 4.  [5v DC Motor](./docs/DoMeAFavor.md) Config, Init, ISR in iLLD
 5.  [5 x 7 Dot Matrix Display](./docs/TwinkleTwinkleLittleStar.md)  STM
