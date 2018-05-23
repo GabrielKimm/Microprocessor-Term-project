@@ -3,7 +3,7 @@
 ## Purpose & Scope
 마이크로 프로세서 텀프로젝트의 공기청정기 제작을 목적으로 한다.
 
-사용부품 목록
+## 사용부품 목록
 
 *  GP2Y1010AU0F 미세먼지 센서
 *  PPD42NS 미세먼지 센서
@@ -13,6 +13,14 @@
 *   5 x 7 Dot Matrix Display
 *   4 x 4 Switch Keypad
 *   Air compression blade
+
+
+## Roles
+
+*  김민수: 프로젝트 관리및 발표
+*  전유정: 하드웨어 제작
+*  유창석: 코딩
+*  박현준: 보고서 제작
 
 
 
