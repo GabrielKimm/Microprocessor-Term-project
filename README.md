@@ -14,6 +14,10 @@
 *   4 x 4 Switch Keypad
 *   Air compression blade
 
+## Considering Materials
+
+*  모터드라이버를 사용해야하는가?
+*  두 종류의 미세먼지 센서중 어떤걸 사용할 것인가?
 
 ## Roles
 
