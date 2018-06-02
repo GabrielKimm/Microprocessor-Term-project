@@ -31,7 +31,7 @@
 ## Links
 * [센서 Tutorial 1](http://www.makewith.co/page/project/801/story/1741/): GP2Y1010AU0F 센서 참고자료
 * [센서 Tutorial 2](http://www.iamamaker.kr/ko/tutorials/arduino/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%84%BC%EC%84%9Cgp2y1010au0f-%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0/) : GP2Y1010AU0F 센서 참고자료2
-
+* [센서 Tutorial 3](http://klinikrobot.com/product/dust-sensor/shinyei-dust-sensor-ppd42ns.html): PPD42NS 미세먼지 센서 참고자료
 
 
 ### Parts 별 사용법 정리
